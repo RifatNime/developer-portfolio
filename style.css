@@ -32,6 +32,7 @@ h2{
     font-weight: 700;
 }
 .top-banner{
+    
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 
@@ -66,6 +67,17 @@ h2{
     border-image: linear-gradient(salmon, tomato);
     border-image-slice: 1;
 }  
+footer{
+    background-color: gray;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
 footer p{
     text-align: center;
+}
+.ex{
+    padding-left: 90px;
+}
+.flexible-cont{
+    margin-bottom: 150px;
 }
